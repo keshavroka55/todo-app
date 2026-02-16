@@ -1,1 +1,6 @@
-Full MERN Stack todo: applications. 
+Full MERN Stack todo: application. 
+client: react
+server: node.js
+database: mongoDB
+
+
